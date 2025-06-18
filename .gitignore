@@ -1,0 +1,16 @@
+# Pastas de build do Maven
+/target/
+/bin/
+
+# Configurações do Eclipse
+.classpath
+.project
+.settings/
+/.metadata/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos de log
+*.log
